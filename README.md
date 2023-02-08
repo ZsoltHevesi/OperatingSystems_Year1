@@ -57,5 +57,5 @@ zo2kvSZvqmaglJIORZDWRb+niEPiiUdsIkLNjMm5UwttVq9owoGcwPX30VxHhWQX
 ANqIJHLtuJQ+wfyLmAEohoCb3rGLXxWHasUe+zNydRkUJfdyrmRQpgC+OW1qp7dA
 eXGXxlRMoHKwQoBH4uVd2raOE/NW9Y1kDTfh0aXKOA/mJNjCgDxFfu4on93RxF9+
 gUcGtsW2toAySYoD2Q==
-=d+cx
+=d+cx/
 -----END PGP PUBLIC KEY BLOCK-----
